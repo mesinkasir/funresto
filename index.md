@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# Fun resto web apps
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/funresto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Installation and documentation : [https://www.hockeycomputindo.com/2021/07/restaurant-pos-free-download-source-code.html](https://www.hockeycomputindo.com/2021/07/restaurant-pos-free-download-source-code.html)
 
-### Markdown
+### Free and open source code restaurant point of sale
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Modern web application for restaurant with full source code.
 
-```markdown
-Syntax highlighted code block
+![free restaurant source code download gratis](https://1.bp.blogspot.com/-g7C69EW_rrM/YO8HomnjimI/AAAAAAAAP2Q/sjK1C7EYl3sk1pRorvyj7qKe3RdzojNUgCLcBGAsYHQ/s2048/mesin%2Bkasir%2Brestoran%2Bfun%2Bresto%2Bapp.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Mobile first display
 
-- Bulleted
-- List
+![free restaurant source code download gratis](https://1.bp.blogspot.com/-PAocr1qczKo/YO8HobK-RyI/AAAAAAAAP2M/TSZIJoAUlKE-osBqRbJRW_GNP3CVJd3YQCLcBGAsYHQ/s2000/restaurant%2Bapp%2Bcheap%2Bprice.jpg)
 
-1. Numbered
-2. List
+Login page area
 
-**Bold** and _Italic_ and `Code` text
+![free restaurant source code download gratis](https://1.bp.blogspot.com/-wSQ-gpYTSmA/YO8P7AqOhTI/AAAAAAAAP2c/WJyytXA1TTwzvTEdgKIu4sDDKilU-oqKACLcBGAsYHQ/s1366/restaurant%2Bapplication%2B%252819%2529%2B-%2BCopy.png)
 
-[Link](url) and ![Image](src)
-```
+Point of sale
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![free restaurant source code download gratis](https://1.bp.blogspot.com/-hyPmN3Y_zXw/YO8GKT1TNtI/AAAAAAAAP1s/3a8T8mT5rCoScCPhE2NUr4jcbbVsPVxbACLcBGAsYHQ/s1349/free%2Bpoint%2Bof%2Bsale%2Bsource%2Bcode%2Bpos%2Brestaurant%2Bapplication%2B%25287%2529.png)
 
-### Jekyll Themes
+Payment POS 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/funresto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+![free restaurant source code download gratis](https://1.bp.blogspot.com/-qa5q1X2Ppl0/YO8GKg8WCDI/AAAAAAAAP1w/y4JksWe-hZktoYLLImsQhskdDK5ZqS1cQCLcBGAsYHQ/s1366/free%2Bpoint%2Bof%2Bsale%2Bsource%2Bcode%2Bpos%2Brestaurant%2Bapplication%2B%25288%2529.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All sale report details
+
+![free restaurant source code download gratis](https://1.bp.blogspot.com/-4MiGLoEAGc0/YO8GJknqNOI/AAAAAAAAP1o/0EIzg45x2PkO2TRtFBfPGguWbS9c7INkwCLcBGAsYHQ/s1349/free%2Bpoint%2Bof%2Bsale%2Bsource%2Bcode%2Bpos%2Brestaurant%2Bapplication%2B%25286%2529.png)
+
+---------------
+
+Demo video [https://youtu.be/EP6NgMciTmA](https://youtu.be/EP6NgMciTmA)
+
+--------------------
+
+Features :
++ Login page
++ Dashboard home page
++ Staff management
++ User management
++ Table management
++ Grouping food and drink menu
++ Food and drink menu management
++ Point of sale cashier apps
++ Sale report details
+
+
+---------------------
+
+Installation and documentation : [https://www.hockeycomputindo.com/2021/07/restaurant-pos-free-download-source-code.html](https://www.hockeycomputindo.com/2021/07/restaurant-pos-free-download-source-code.html)
+
+
+---------------------------
+
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
+
+
+
+
+
+
+
