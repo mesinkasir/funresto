@@ -57,6 +57,9 @@ Features :
 
 Installation and documentation : [https://www.hockeycomputindo.com/2021/07/restaurant-pos-free-download-source-code.html](https://www.hockeycomputindo.com/2021/07/restaurant-pos-free-download-source-code.html)
 
+More information [https://axcora.my.id/funresto](https://axcora.my.id/funresto)
+
+Whatsapp shop order demo + admin backend [https://axcora.my.id/funresto/pages/](https://axcora.my.id/funresto/pages/)
 
 ---------------------------
 
